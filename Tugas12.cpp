@@ -9,7 +9,7 @@ struct mhs bayar[2];
 
 int main ()
 {
-  int bts,var,tetap;
+  int sks,var,tetap;
   for(int i=0; i<2; i++)
   {
     //input data
